@@ -1,2 +1,4 @@
 .env
 .bat
+*.bat
+*.env
